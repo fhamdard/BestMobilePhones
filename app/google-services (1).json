@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857922194182",
+    "firebase_url": "https://best-c32dc.firebaseio.com",
+    "project_id": "best-c32dc",
+    "storage_bucket": "best-c32dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857922194182:android:5bdea4820bbfbe7538ac87",
+        "android_client_info": {
+          "package_name": "com.example.bestmobilephones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857922194182-qvtv74j0bo4oimuen782q5u3bgv312s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpiXr90Krd8_wDUVCfDOb7C3HQHf9pSNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857922194182-qvtv74j0bo4oimuen782q5u3bgv312s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
